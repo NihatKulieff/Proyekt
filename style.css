@@ -112,7 +112,9 @@ li a, .dropbtn {
   }
 
   section .right-side{
-    flex-basis: 70%;}
+    flex-basis: 70%;
+  padding: 30px;}
+    
 
      .right-side img{
       width: 100%;
@@ -140,7 +142,7 @@ li a, .dropbtn {
       position: absolute;
       top: 50%;
       left: 50%;
-      transform: translate( -50% -50%);
+      transform: translate(-50%, -50%);
       width: 350px;
      
     }
